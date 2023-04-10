@@ -46,7 +46,7 @@
 
 ## 데이터베이스
 
-<img src="images/Picture1.png" width="600" height="600"/>
+<img src="images/Picture1.png" width="600" height="335"/>
 
 <br>
 
