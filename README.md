@@ -115,42 +115,42 @@
 
 <details><summary> <b>멤버</b> </summary>
 
-<img src="images/Member.png" width="100%" height="100%"/>
+<img src="images/Member.png" width="90%" height="90%"/>
 
 </details>
 <br>
 
 <details><summary> <b>자유게시판</b> </summary>
 
-<img src="images/FBboard.png" width="100%" height="100%"/>
+<img src="images/FBboard.png" width="90%" height="90%"/>
 
 </details>
 <br>
 
 <details><summary> <b>오늘의러닝</b> </summary>
 
-<img src="images/Today.png" width="100%" height="100%"/>
+<img src="images/Today.png" width="90%" height="90%"/>
 
 </details>
 <br>
 
 <details><summary> <b>메이트구하기</b> </summary>
 
-<img src="images/Mate.png" width="100%" height="100%"/>
+<img src="images/Mate.png" width="90%" height="90%"/>
 
 </details>
 <br>
 
 <details><summary> <b>공통기능</b> </summary>
 
-<img src="images/Sub.png" width="100%" height="100%"/>
+<img src="images/Sub.png" width="90%" height="90%"/>
 
 </details>
 <br>
 
 <details><summary> <b>코스공유</b> </summary>
 
-<img src="images/Route.png" width="100%" height="100%"/>
+<img src="images/Route.png" width="90%" height="90%"/>
 
 </details>
 <br>
