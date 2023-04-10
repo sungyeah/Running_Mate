@@ -2,55 +2,6 @@
 러닝에 대한 여러가지 정보를 공유하고 러닝메이트를 구하느 러닝 커뮤니티 사이트
 
 <br>
- 
-## 러닝메이트란?
-- 번개 모임 과 소모임 구분
-- 번개 모임의 정확한 위치 정보 제공
-- 코스 공유(사용자가 지도에 직접 코스를 그려 공유할 수 있음)
-- 러닝 다이어리(러닝 인증)
-
-<br>
- 
-## 만들게된 배경
-- 한국인 중 주 3회 이상 하루 30분 이상 운동 하는 비율은 42.7% 정도
-- 그 중에 가장 높은 비율의 운동은 걷기 및 조깅(러닝)
-- 운동을 혼자 하다가 흥미를 갖기전에 관두는 경우가 多
-- 러닝코스 공유등과 운동할 메이트를 만들 수 있는 플랫폼을 만들고자 프로젝트를 시작함
-
-<br>
- 
-<img src="images/image101.png" width="300" height="300"/>&ensp;&ensp;&ensp;&ensp;&ensp;<img src="images/image100.png" width="300" height="300"/>
-
-<br>
- 
-## Demo
-
-<img src="images/Picture2.png"/>
-
-<br>
- 
-## 기능
-<details><summary> <b>메인, 회원, 마이페이지, 관리자 페이지</b> </summary></details>
-
-<details><summary> <b>메이트 구하기</b> </summary></details>
-
-<details><summary> <b>오늘의 러닝</b> </summary></details>
-
-<details><summary> <b>코스 공유</b> </summary></details>
-
-<details><summary> <b>자유게시판</b> </summary></details>
-
-<br>
-
-## 클래스 구조
-
-<br>
-
-## 데이터베이스
-
-<img src="images/Picture1.png" width="923" height="515"/>
-
-<br>
 
 ## 팀 역할
 
@@ -112,6 +63,55 @@
 * 게시물 썸네일 기능 구현
 
 </details>
+<br>
+ 
+## 러닝메이트란?
+- 번개 모임 과 소모임 구분
+- 번개 모임의 정확한 위치 정보 제공
+- 코스 공유(사용자가 지도에 직접 코스를 그려 공유할 수 있음)
+- 러닝 다이어리(러닝 인증)
+
+<br>
+ 
+## 만들게된 배경
+- 한국인 중 주 3회 이상 하루 30분 이상 운동 하는 비율은 42.7% 정도
+- 그 중에 가장 높은 비율의 운동은 걷기 및 조깅(러닝)
+- 운동을 혼자 하다가 흥미를 갖기전에 관두는 경우가 多
+- 러닝코스 공유등과 운동할 메이트를 만들 수 있는 플랫폼을 만들고자 프로젝트를 시작함
+
+<br>
+ 
+<img src="images/image101.png" width="300" height="300"/>&ensp;&ensp;&ensp;&ensp;&ensp;<img src="images/image100.png" width="300" height="300"/>
+
+<br>
+ 
+## Demo
+
+<img src="images/Picture2.png"/>
+
+<br>
+ 
+## 기능
+<details><summary> <b>메인, 회원, 마이페이지, 관리자 페이지</b> </summary></details>
+
+<details><summary> <b>메이트 구하기</b> </summary></details>
+
+<details><summary> <b>오늘의 러닝</b> </summary></details>
+
+<details><summary> <b>코스 공유</b> </summary></details>
+
+<details><summary> <b>자유게시판</b> </summary></details>
+
+<br>
+
+## 클래스 구조
+
+<br>
+
+## 데이터베이스
+
+<img src="images/Picture1.png" width="923" height="515"/>
+
 <br>
 
 ## 기술 스택
