@@ -23,7 +23,7 @@
 
 <br>
  
-## 데모
+## Demo
 
 <img src="images/Picture2.png"/>
 
