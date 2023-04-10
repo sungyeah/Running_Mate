@@ -50,28 +50,46 @@
 
 <details><summary> <b>채효주</b> </summary>
 
-* 로그인, 회원가입/ 마이페이지(F, B)
+* 로그인, 회원가입 CRUD 구현
+* 마이페이지 JSP 디자인 설계 및 구현
+* 내가 쓴 글 보기
+* 회원목록 조회 / 회원 강제 탈퇴
+* 신고목록 조회 및 해당 게시물 삭
 
 </details>
 <br>
 
 <details><summary> <b>홍성호</b> </summary>
 
-* 러닝메이트페이지(F, B) - 카카오 지도 API 연동
-
+* 러닝메이트 구하기 JSP 구성 설계 및 구현
+* 번개, 소모임 게시물 CRUD
+* 번개 참여 기능, 참여자 리스트 기능
+* 게시물 검색 기능(게시물 종류, 제목등)
+* KaKao Map API 사용: 현재 위치 정보, 지도로 보기 등 구현
+ 
 </details>
 <br>
 
 <details><summary> <b>김상원</b> </summary>
 
-* 메인페이지, 자유게시판(F, B)
-
+* 메인페이지 JSP 디자인 설계 및 구현
+* 최고의 러너 구현(오늘의 러닝) / 번개모임 미리보기
+* 자유게시판 CRUD 페이징리스트 구현
+* CKEditor5로 게시판 구현
+* 게시글 검색 기능(제목, 작성자, 내용)
+* 댓글 front 구성 설계 및 구현
+ 
 </details>
 <br>
 
 <details><summary> <b>조예선</b> </summary>
 
-* 나처럼 달려페이지(F, B) - Mapbox Geolocation API 연동
+* 나처럼 달려페이지 JSP 구성 설계 및 구현
+* 게시물 CRUD 페이징 구현
+* CKEditor5로 게시물 구현
+* Mapbox API 사용하여 코스 그리기
+* 전체 댓글 기능 CRUD
+* 전체 좋아요, 신고 DB 설계 및 구현
 
 </details>
 <br>
