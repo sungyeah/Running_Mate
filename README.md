@@ -32,35 +32,35 @@
 
 ## 팀 역할
 
-<details><summary> <b채효주</b> </summary>
+<details><summary> <b>채효주</b> </summary>
 
 * 로그인, 회원가입/ 마이페이지(F, B)
 
 <details>
 <br>
 
-<details><summary> <b홍성호</b> </summary>
+<details><summary> <b>홍성호</b> </summary>
 
 * 러닝메이트페이지(F, B) - 카카오 지도 API 연동
 
 <details>
 <br>
 
-<details><summary> <b김상원</b> </summary>
+<details><summary> <b>김상원</b> </summary>
 
 * 메인페이지, 자유게시판(F, B)
 
 <details>
 <br>
 
-<details><summary> <b조예선</b> </summary>
+<details><summary> <b>조예선</b> </summary>
 
 * 나처럼 달려페이지(F, B) - Mapbox Geolocation API 연동
 
 <details>
 <br>
 
-<details><summary> <b김민정</b> </summary>
+<details><summary> <b>김민정</b> </summary>
 
 * 오늘의 러닝페이지(F, B)
 
