@@ -44,7 +44,9 @@
 
 <br>
 
-## 디비 스키마
+## 데이터베이스
+
+<img src="images/Picture1.png" width="300" height="300"/>
 
 <br>
 
