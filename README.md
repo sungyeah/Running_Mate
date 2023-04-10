@@ -25,7 +25,7 @@
  
 ## 데모
 
-<img src="images/Picture2.png" border="1px"/>
+<img src="images/Picture2.png"/>
 
 <br>
  
