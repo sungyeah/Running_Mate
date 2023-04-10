@@ -16,15 +16,15 @@
 ## 데모
 
 ## 기능
-<details><summary> <b>메인, 회원, 마이페이지, 관리자 페이지</b> </summary><details>
+<details><summary> <b>메인, 회원, 마이페이지, 관리자 페이지</b> </summary></details>
 
-<details><summary> <b>메이트 구하기</b> </summary><details>
+<details><summary> <b>메이트 구하기</b> </summary></details>
 
-<details><summary> <b>오늘의 러닝</b> </summary><details>
+<details><summary> <b>오늘의 러닝</b> </summary></details>
 
-<details><summary> <b>코스 공유</b> </summary><details>
+<details><summary> <b>코스 공유</b> </summary></details>
 
-<details><summary> <b>자유게시판</b> </summary><details>
+<details><summary> <b>자유게시판</b> </summary></details>
 
 ## 클래스 구조
 
@@ -36,35 +36,35 @@
 
 * 로그인, 회원가입/ 마이페이지(F, B)
 
-<details>
+</details>
 <br>
 
 <details><summary> <b>홍성호</b> </summary>
 
 * 러닝메이트페이지(F, B) - 카카오 지도 API 연동
 
-<details>
+</details>
 <br>
 
 <details><summary> <b>김상원</b> </summary>
 
 * 메인페이지, 자유게시판(F, B)
 
-<details>
+</details>
 <br>
 
 <details><summary> <b>조예선</b> </summary>
 
 * 나처럼 달려페이지(F, B) - Mapbox Geolocation API 연동
 
-<details>
+</details>
 <br>
 
 <details><summary> <b>김민정</b> </summary>
 
 * 오늘의 러닝페이지(F, B)
 
-<details>
+</details>
 <br>
 
 ## 기술 스택
