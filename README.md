@@ -96,8 +96,12 @@
 <br>
 
 <details><summary> <b>김민정</b> </summary>
-
-* 오늘의 러닝페이지(F, B)
+ 
+* 오늘의 러닝 JSP 구성 설계 및 구현
+* 오늘의 러닝 CRUD 페이징 구현
+* 게시물 썸네일 기능 구현
+* CKEditor5로 게시물 구현
+* 게시물 썸네일 기능 구현
 
 </details>
 <br>
