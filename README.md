@@ -108,7 +108,7 @@
 
 <details><summary> <b>메인페이지</b> </summary>
 
-<img src="images/Main.png" width="100%" height="100%"/>
+<img src="images/Main.png" width="80%" height="80%"/>
 
 </details>
 <br>
