@@ -19,7 +19,7 @@
 
 <br>
  
-<img src="images/image101.png" width="300" height="300"/>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<img src="images/image100.png" width="300" height="300"/>
+<img src="images/image101.png" width="300" height="300" margin-right="100px;"/><img src="images/image100.png" width="300" height="300"/>
 
 <br>
 
