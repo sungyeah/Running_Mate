@@ -106,19 +106,19 @@
 
 <details><summary> <b>오늘의 러닝</b> </summary>
 
-<img src="images/image12.png"/>
+<img src="images/image13.png"/>
 
 </details>
 
 <details><summary> <b>코스 </b> </summary>
 
-<img src="images/image13.png"/>
+<img src="images/image14.png"/>
 
 </details>
 
 <details><summary> <b>자유게시판</b> </summary>
 
-<img src="images/image14.png"/>
+<img src="images/image15.png"/>
  
 </details>
 
