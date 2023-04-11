@@ -84,6 +84,10 @@
 
 </details>
 <br>
+
+## 프로젝트 일정
+
+<img src="images/image12.png"/>
  
 ## Demo
 
