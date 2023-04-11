@@ -92,7 +92,11 @@
 <br>
  
 ## 기능
-<details><summary> <b>메인, 회원, 마이페이지, 관리자 페이지</b> </summary></details>
+<details><summary> <b>메인, 회원, 마이페이지, 관리자 페이지</b> </summary>
+
+<img src="images/image10.png"/>
+
+</details>
 
 <details><summary> <b>메이트 구하기</b> </summary></details>
 
