@@ -98,13 +98,29 @@
 
 </details>
 
-<details><summary> <b>메이트 구하기</b> </summary></details>
+<details><summary> <b>메이트 구하기</b> </summary>
 
-<details><summary> <b>오늘의 러닝</b> </summary></details>
+<img src="images/image11.png"/>
+ 
+</details>
 
-<details><summary> <b>코스 공유</b> </summary></details>
+<details><summary> <b>오늘의 러닝</b> </summary>
 
-<details><summary> <b>자유게시판</b> </summary></details>
+<img src="images/image12.png"/>
+
+</details>
+
+<details><summary> <b>코스 </b> </summary>
+
+<img src="images/image13.png"/>
+
+</details>
+
+<details><summary> <b>자유게시판</b> </summary>
+
+<img src="images/image14.png"/>
+ 
+</details>
 
 <br>
 
