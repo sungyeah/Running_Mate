@@ -112,7 +112,7 @@
 
 <details><summary> <b>코스 공유</b> </summary>
 
-<img src="images/image14.png"/>
+
 
 </details>
 
