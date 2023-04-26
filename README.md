@@ -91,7 +91,7 @@
  
 ## Demo
 
-[![RunningMate Demo](images/Picture2.png)](https://www.youtube.com/watch?v=7uexY16tpgA&t=225s)
+(https://www.youtube.com/watch?v=7uexY16tpgA&t=225s)[![RunningMate Demo](images/Picture2.png)]
 
 <br>
  
