@@ -91,7 +91,7 @@
  
 ## Demo
 
-<img src="images/Picture2.png"/>
+[![RunningMate Demo](images/Picture2.png)](https://www.youtube.com/watch?v=7uexY16tpgA&t=225s)
 
 <br>
  
